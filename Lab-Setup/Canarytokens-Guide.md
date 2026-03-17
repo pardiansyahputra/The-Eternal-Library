@@ -30,8 +30,8 @@ Sistem peringatan tidak akan terpicu jika:
 - File dibuka dalam lingkungan Isolated Lab (Air-gapped) tanpa akses jaringan keluar.
 
 **5. Referensi Cepat**
-URL Pembuatan: canarytokens.org
-Dokumentasi Resmi: docs.canarytokens.org
+URL Pembuatan: https://canarytokens.org
+Dokumentasi Resmi: https://docs.canarytokens.org
 
 
 ***NOTE***
