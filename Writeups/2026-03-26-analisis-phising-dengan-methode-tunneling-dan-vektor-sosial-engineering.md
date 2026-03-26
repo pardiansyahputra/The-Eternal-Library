@@ -2,7 +2,7 @@
 ----
 ###### Tanggal: 25/03/2026
 ###### Kategori: Web Security / Social Engineering
-###### sourcode/folder:
+###### sourcode/folder:[script kode](/Lab-Setup/phising-&-Data-Exfiltration-Research/README.md)
 
 ---
 
