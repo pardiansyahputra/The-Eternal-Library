@@ -16,8 +16,8 @@ berikut beberapa penjelasan
 ***NB:semua hal yang ada di sini untuk tujuan edukasi saja, kami tidak membernarkan tindakan yang melanggar hukum!!***
 
 
-Write up saya : [penjelasan singkat](/Writeups/2026-03-26-analisis-phising-dengan-methode-tunneling-dan-vektor-sosial-engineering.md)
-source code simpel: [phising-1](phising-1.py)
-source code varian: [phising-2](phising-2.py)
-source code lengkap: [phising-3](phising-3-&-data-exfiltration.py)
-source code simulasi banking: [phising-4](phising-4-for-simulation-bank.py)
++ Write up saya : [penjelasan singkat](/Writeups/2026-03-26-analisis-phising-dengan-methode-tunneling-dan-vektor-sosial-engineering.md)
++ source code simpel: [phising-1](phising-1.py)
++ source code varian: [phising-2](phising-2.py)
++ source code lengkap: [phising-3](phising-3-&-data-exfiltration.py)
++ source code simulasi banking: [phising-4](phising-4-for-simulation-bank.py)
