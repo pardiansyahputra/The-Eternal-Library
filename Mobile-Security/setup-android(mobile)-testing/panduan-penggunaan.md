@@ -43,5 +43,17 @@ PENTING! Jangan langsung cabut kabel, nanti HP vivo kamu tidak bisa internetan (
 #tulis di terminal
 adb shell settings put global http_proxy :0
 ```
-
 + Tes Internet HP: Buka browser di HP, pastikan sudah lancar tanpa Burp.
+
+---
+***TAMBAHAN PENTING***
+
+jika suatu waktu terjadi perebutan port yang mana dia selalu connect ke windows kamu dan tidak mau connect ke vmware kali linux kamu, maka lakukan cara dibawah ini:
++ lakukan set-up seperti penjelasan sebelumnya
++ jika dia connect ke windows pertama kali, lakukan command ini didalam directory adb di windows:
+```Bash
+adb kill-server
+```
++ maka dia akan terputus dari windows dan colokkan lagi ke vmware & aktifkan dia di sana
++ jika keduanya tidak ada yang di kenali oleh `adb` maka hapus port di vmware lalu sambungkan lagi dan colok kabelnya ,maka pop up akan keluar `tanda adb sudah di kenali kembali`
++ dan berhasil....
