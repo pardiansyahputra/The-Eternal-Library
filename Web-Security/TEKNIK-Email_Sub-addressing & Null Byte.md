@@ -1,7 +1,7 @@
 ### Catatan Teknis: Eksploitasi Identitas Melalui Sub-addressing & Null Byte
 ###### Target: Form register, Form login, Form survey [semua Form yang ada kaitan dengan email]
 ###### Date: April 01 , 2026
-##### write-up catatan:[write-up](/Web-Security/TEKNIK-Email_Sub-addressing%20&%20Null%20Byte.md)
+##### write-up catatan:[write-up](/Writeups/2026-03-31-Eksploitasi%20Logika%20Bisnis%20&%20Injeksi%20Karakter%20pada%20Sistem%20Manajemen%20Dukungan%20.md)
 ---
 #### 1. Konsep Dasar & Mekanisme
 Celah ini terjadi karena adanya inkonsistensi pengolahan data (Data Inconsistency) antara tiga lapisan sistem:
