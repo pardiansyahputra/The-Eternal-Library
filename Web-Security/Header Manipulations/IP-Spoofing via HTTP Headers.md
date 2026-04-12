@@ -100,10 +100,10 @@ Untuk mempermudah kamu "ngoprek" hari ini, simpan ini di settingan Match and Rep
 ```
 ***Mencari IP Internal***
 Jika `127.0.0.1` tidak berhasil, ada kemungkinan IP internalnya menggunakan range private. Coba gunakan IP ini satu per satu (atau pakai Intruder):
-
-> 10.0.0.1 s/d 10.0.0.255
+```bash
+10.0.0.1 s/d 10.0.0.255
 172.16.0.1 s/d 172.16.0.255
 192.168.0.1 s/d 192.168.0.255
-
+```
 ***catatan***
 hal ini sering digunakan dalam melakukan bypass pada endpoint yang di larang dimasuki, seperti panel `admin` atau sejenisnya. Sebab terkadang server tidak melakukan validasi atau kesalahan konfigurasi 
