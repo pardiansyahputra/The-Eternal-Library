@@ -27,6 +27,11 @@ Sudo git clone https://github.com/danielmiessler/SecLists
 ```
 
 **perintah penggunaan**
++ Favorit sintaks
+```bash
+ffuf -u https://developers.uob.co.id/bin/FUZZ -w /usr/share/wordlists/dirb/common.txt -mc 200,500 -e .zip, .js 
+```
+
 + Sintaks Dasar
 ```Bash
 ffuf -u http://target.com/FUZZ -w /usr/share/wordlists/dirb/common.txt
