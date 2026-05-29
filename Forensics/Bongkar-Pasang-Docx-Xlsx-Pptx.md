@@ -25,6 +25,8 @@ Setelah diekstrak, terdapat beberapa folder krusial bagi seorang analis:(didalam
 + styles.xml: Definisi format dan gaya.
 + footer[n].xml: Sering digunakan untuk menyembunyikan Canary Token (Web Beacon).
 
+***Tabel panduan OOXML:*** [klik disini](/Tabel-Panduan-Arsitektur-OOXML.md)
+
 **3. Teknik Manipulasi Metadata (Anti-Forensics)**
 Untuk mengubah identitas file tanpa meninggalkan jejak dari aplikasi Office, kita dapat menggunakan manipulasi direct-stream menggunakan sed.
 
@@ -66,6 +68,13 @@ exiftool namafile.docx
 ```
 jika berhasil nama penulis akan terganti tampa merubah waktu edit terakhir. Dan begitu seterusnya kamu bisa memanipulasi dengan cara yang sama.
 
+---
+Tanggal Riset: 29/05/2026 20:24
+
+Jika dalam praktiknya mengalami kesulitan dalam melakukan perubahan sistem secara terminal/menggunakan windows, kita juga bisa menggunakan teknik manual, yakni dengan cara mengubah file menjadi  `.zip`, kemudian masuk kedalam `.zip` dan pilih bagian yang ingin di ubah datanya. seperti contoh kita ingin mengubah dibagian `setting.xml`. kita ubah dulu menjadi `setting.txt` selanjutnya ubah data yang ingin di ubah. kemudian ubah lagi menjadi `setting.xml` agar data kembali ke extensi semula dan terakhir ubah zip menjadi file awal tadi ( docx/pptx/xlsx).
+
+jika ingin lebih simple lagi, kita bisa memanfaatkan bahasa pemograman `python` yang dirancang untuk membaca dan memahami proses yang ada. kenapa python ? - karna bahasa ini mudah untuk di mengerti dan modifikasi dan pastinya ramah bagi pemula
+
 ***NOTE***
 berikut ada beberapa main maps yang bisa di jadikan acuan dalam melakukan deep analisis kedepannya, mungkin beberapa memiliki sedikit perbedaan:
 
@@ -74,4 +83,9 @@ Ekstensi ==> .xlsx   &Folder Konten  ==> xl/, workseets   &File Utama ==> shared
 Ekstensi ==> .pptx   &Folder Konten  ==> ppt/, slide   &File Utama ==> slide1.xml
 
 ***BACA JUGA***
-**Setup Lab & Defensif:** [Panduan Penggunaan Canarytokens](../Lab-Setup/Canarytokens-Guide.md)
++ **Setup Lab & Defensif:** [Panduan Penggunaan Canarytokens](../Lab-Setup/Canarytokens-Guide.md)
++ **penjelasan sistem:** [https://www.loc.gov/preservation/digital/formats/fdd/fdd000397.shtml]
++ **membaca dan menulis kostume fie:** [https://www.textcontrol.com/blog/2024/07/23/read-and-write-custom-xml-parts-in-ms-word-office-open-xml-docx-files-using-net-csharp/]
++ 
+
+
