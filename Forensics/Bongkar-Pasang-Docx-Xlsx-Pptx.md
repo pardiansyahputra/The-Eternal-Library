@@ -25,7 +25,7 @@ Setelah diekstrak, terdapat beberapa folder krusial bagi seorang analis:(didalam
 + styles.xml: Definisi format dan gaya.
 + footer[n].xml: Sering digunakan untuk menyembunyikan Canary Token (Web Beacon).
 
-***Tabel panduan OOXML:***[klik disini](Forensics/Tabel Panduan Arsitektur OOXML)
+***Tabel panduan OOXML:***[klik disini](Forensics/TabelPanduanArsitekturOOXML.md)
 
 **3. Teknik Manipulasi Metadata (Anti-Forensics)**
 Untuk mengubah identitas file tanpa meninggalkan jejak dari aplikasi Office, kita dapat menggunakan manipulasi direct-stream menggunakan sed.
