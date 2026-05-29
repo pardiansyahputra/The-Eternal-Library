@@ -25,6 +25,8 @@ Setelah diekstrak, terdapat beberapa folder krusial bagi seorang analis:(didalam
 + styles.xml: Definisi format dan gaya.
 + footer[n].xml: Sering digunakan untuk menyembunyikan Canary Token (Web Beacon).
 
+***bisa juga membaca dokumentasi ini***
+
 **3. Teknik Manipulasi Metadata (Anti-Forensics)**
 Untuk mengubah identitas file tanpa meninggalkan jejak dari aplikasi Office, kita dapat menggunakan manipulasi direct-stream menggunakan sed.
 
@@ -82,3 +84,6 @@ Ekstensi ==> .pptx   &Folder Konten  ==> ppt/, slide   &File Utama ==> slide1.xm
 
 ***BACA JUGA***
 **Setup Lab & Defensif:** [Panduan Penggunaan Canarytokens](../Lab-Setup/Canarytokens-Guide.md)
+**penjelasan sistem:** [https://www.loc.gov/preservation/digital/formats/fdd/fdd000397.shtml]
+
+
