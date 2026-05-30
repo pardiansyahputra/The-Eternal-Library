@@ -51,7 +51,7 @@ atau seperti pada tampilan gambar ini gambar ini:
 ![Tampilan awal pada Web](../Writeups/gambar/image_7.png)
 + ketika extensi di hapus sistem otomatis juga menghapus file yang ada di penyimpanan kita begitu juga ketika ada update terbaru
 
-***apa yang dilakukan para pakar keamanan cyber ?***
+***apa yang dilakukan para pakar keamanan cyber dan hacker ?***
 
 mungkin kita sebagai pengguna biasa hanya melihat ini sebagai fitur saja, namun bagi para pakar keamanan cyber hal ini menjadi sebuah hal menarik sekaligus mengerikan. 
 
@@ -59,6 +59,26 @@ mungkin kita sebagai pengguna biasa hanya melihat ini sebagai fitur saja, namun 
 
 + disisi lain ini menjadi taman bermain para peretas jahat yang memanfaatkan celah keamanan untuk keuntungan pribadi dan membahayakan orang lain. seperti melakukan pembuatan extensi yang mirip namun dengan menyisipkan tunneling jaringan agar dapat membaca trafict data yang berjalan atau untuk mendistribusikan malware. mengingat semua extensi akan otomatis di extract ketika user telah menginstallnya.
 
+**Apakah  bisa membuat extensi sendiri ?**
+jawabannya ya, bisa. hal ini sebagaimana ketentuan yang tertulis di dokument ini [klik ini](https://developer.chrome.com/docs/extensions/get-started?hl=id). jika di buat list berikut langkah langkah singkatnya :
++ Siapkan Folder Kerja di PC
++ Buat Berkas `manifest.json`- sebagai otak ekstensi
++ Buat Berkas Antarmuka `popup.html` - nantinya ini akan ditampilkan ke user
++ Buat Berkas Logika Eksekusi `popup.js`
++ Memasang Ekstensi ke Browser dalam `Mode Developer` - nah kita bisa menggunakan extensi kita tampa harus menguploadnya di `Chrome Web Store`
+
+    + Buka Google Chrome, lalu masuk ke halaman manajemen ekstensi dengan mengetik `chrome://extensions/` 
+    + Aktifkan tombol `Developer mode` di pojok kanan atas hingga berubah menjadi posisi On.
+    + Klik tombol `Load unpacked` yang muncul di pojok kiri atas.
+    + kemudian pilih folder extensi yang sudah dibuat tadi
+
+
+
+
+**Baca juga**
++ https://brave.com/learn/what-are-web-browser-extensions/
++ https://www.huntress.com/cybersecurity-101/topic/browser-extensions 
++ https://www.streak.com/post/what-is-a-browser-extension 
 
 
 
