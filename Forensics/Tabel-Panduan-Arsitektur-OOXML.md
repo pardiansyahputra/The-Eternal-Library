@@ -1,5 +1,9 @@
 # Tabel Panduan Arsitektur OOXML Versi Lengkap
 
+---
+
+###### Tanggal Riset: 30/05/2026 23:15
+
 ## STRUKTUR ROOT (PONDASI)
 
 | Lokasi Berkas         | Tipe   | Deskripsi Fungsi Teknis & Isi Komponen                                                                                                                                       | Kompatibilitas |
