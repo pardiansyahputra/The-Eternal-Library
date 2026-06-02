@@ -20,3 +20,4 @@ REVERSE SHELL OOXML didasari dari penasaran saya setelah melakukan analisis awal
 
 - [Ide awal dalam prosesnya](ide-awal.md)
 - [Terkain DOH](mencoba-DOH.md)
+- [setup macro dan VBA](setup-macro&VBA.md)
