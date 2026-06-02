@@ -14,4 +14,5 @@ REVERSE SHELL OOXML didasari dari penasaran saya setelah melakukan analisis awal
 
 **Baca selangkapnya**
 + [Ide awal dalam prosesnya](ide-awal.md)
++ [Terkain DOH](mencoba-DOH.md)
 
