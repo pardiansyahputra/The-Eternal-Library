@@ -60,6 +60,7 @@ mungkin kita sebagai pengguna biasa hanya melihat ini sebagai fitur saja, namun 
 + disisi lain ini menjadi taman bermain para peretas jahat yang memanfaatkan celah keamanan untuk keuntungan pribadi dan membahayakan orang lain. seperti melakukan pembuatan extensi yang mirip namun dengan menyisipkan tunneling jaringan agar dapat membaca trafict data yang berjalan atau untuk mendistribusikan malware. mengingat semua extensi akan otomatis di extract ketika user telah menginstallnya.
 
 **Apakah  bisa membuat extensi sendiri ?**
+
 jawabannya ya, bisa. hal ini sebagaimana ketentuan yang tertulis di dokument ini [klik ini](https://developer.chrome.com/docs/extensions/get-started?hl=id). jika di buat list berikut langkah langkah singkatnya :
 + Siapkan Folder Kerja di PC
 + Buat Berkas `manifest.json`- sebagai otak ekstensi
