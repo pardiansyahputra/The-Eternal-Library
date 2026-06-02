@@ -17,11 +17,6 @@ REVERSE SHELL OOXML didasari dari penasaran saya setelah melakukan analisis awal
 - sejauh ini - berhasil hanya dengan pengecekan VBA macro dimatikan
 
 **Baca selangkapnya**
-<<<<<<< HEAD
-=======
-+ [Ide awal dalam prosesnya](ide-awal.md)
-
->>>>>>> 1badb50431c02d9b522d461ef49f0a069b08db4f
 
 - [Ide awal dalam prosesnya](ide-awal.md)
 - [Terkain DOH](mencoba-DOH.md)
