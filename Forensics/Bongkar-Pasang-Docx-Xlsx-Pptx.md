@@ -31,6 +31,7 @@ Setelah diekstrak, terdapat beberapa folder krusial bagi seorang analis:(didalam
 - footer[n].xml: Sering digunakan untuk menyembunyikan Canary Token (Web Beacon).
 
 **_Tabel panduan OOXML:_** [klik disini](Tabel-Panduan-Arsitektur-OOXML.md)
+**Alat analisis berbasis GUI**: [klik disini](/Tools-Reference/Tool-OOXML-Analisis/README.md)
 
 **3. Teknik Manipulasi Metadata (Anti-Forensics)**
 Untuk mengubah identitas file tanpa meninggalkan jejak dari aplikasi Office, kita dapat menggunakan manipulasi direct-stream menggunakan sed.
@@ -95,4 +96,6 @@ berikut ada beberapa main maps yang bisa di jadikan acuan dalam melakukan deep a
 - **Setup Lab & Defensif:** [Panduan Penggunaan Canarytokens](../Lab-Setup/Canarytokens-Guide.md)
 - **penjelasan sistem:** [https://www.loc.gov/preservation/digital/formats/fdd/fdd000397.shtml]
 - **membaca dan menulis kostume fie:** [https://www.textcontrol.com/blog/2024/07/23/read-and-write-custom-xml-parts-in-ms-word-office-open-xml-docx-files-using-net-csharp/]
--
+-**Baca juga penjelasan** [/Tools-Reference/Tool-OOXML-Analisis/README.md]
+- **Baca juga penjelasan alat GUI:** [Panduan Penggunaan Canarytokens](/Tools-Reference/Tool-OOXML-Analisis/README.md)
+

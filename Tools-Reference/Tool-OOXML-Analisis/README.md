@@ -38,6 +38,7 @@ Berikut adalah bebera tangkapan layar dari alat ini:
 + [Panduan Penggunaan Canarytokens](../Lab-Setup/Canarytokens-Guide.md)
 + [Bongkar-Pasang-Docx-Xlsx-Pptx Dalam Konteks Meta-Data file](/Forensics/Bongkar-Pasang-Docx-Xlsx-Pptx.md)
 + [Tabel panduan OOXML](/Forensics/Tabel-Panduan-Arsitektur-OOXML.md)
++ [penjelasan canary token](/Writeups/2026-03-15-Analisis-Jebakan-Canarytoken.md)
 
 
 

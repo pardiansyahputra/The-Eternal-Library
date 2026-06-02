@@ -1,4 +1,4 @@
-# Bongkar-Pasang-Docx-Xlsx-Pptx Dalam Konteks Meta-Data file
+# Analisi-jebakan-Canarytoken
 ---
 ###### Tanggal Riset: 15/03/2026 23:15
 ###### Kategori: Digital Forensics / Anti-Forensics
