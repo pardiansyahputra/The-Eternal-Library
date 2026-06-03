@@ -4,6 +4,8 @@
 
 ###### Media: docx/docm + cloudflareTunneling
 
+###### Tanggal mulai riset: 01/06/2026
+
 ---
 
 **Penjelasan**
