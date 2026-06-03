@@ -16,10 +16,11 @@ REVERSE SHELL OOXML didasari dari penasaran saya setelah melakukan analisis awal
 - menggunakan tunneling dalam hubungan (agar bisa berbicara lintas jaringan)
 - tidak menggunakan TCP murni
 - memanfaatkna file OOXML (terutama docx/docm) dan macro di VBA
-- sejauh ini - berhasil hanya dengan pengecekan VBA macro dimatikan
+- sejauh ini - berhasil hanya dengan pengecekan VBA macro dimatikan ini kusus pada [Konsep Macro dalam Bentuk .docm](konsep-macro.md)
 
 **Baca selangkapnya**
 
 - [Ide awal dalam prosesnya](ide-awal.md)
 - [Terkain DOH](mencoba-DOH.md)
 - [setup macro dan VBA](setup-macro&VBA.md)
+- [Konsep Macro dalam Bentuk .docm](konsep-macro.md)
