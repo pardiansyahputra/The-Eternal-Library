@@ -4,6 +4,8 @@
 
 ###### Media: docx/docm + cloudflareTunneling
 
+###### Prasarat: target harus menonaktifkan notifiakasi security MS-Word
+
 ---
 
 **penjelasan**
@@ -23,5 +25,3 @@ hal ini penting dilakukan sebab di word awal kita tidak akan menjumpai tab Devel
 - masuk ke `visual basic`
 - pilih tab insert `didalam visual basic nya`
 - pilih `module` dan masukkan kodenya
-
-
