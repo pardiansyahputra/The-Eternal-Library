@@ -4,6 +4,8 @@
 
 ###### Media: docx/docm + cloudflareTunneling
 
+###### Prasarat: target harus menonaktifkan notifiakasi security MS-Word
+
 ---
 
 **penjelasan**
